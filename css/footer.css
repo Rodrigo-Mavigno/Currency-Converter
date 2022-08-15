@@ -1,0 +1,12 @@
+footer {
+  width: 100%;
+  background-color: gold;
+  padding: 10px;
+  text-align: center;
+}
+
+footer span{
+  color: rgb(48, 18, 148);
+  font-size: 0.8em;
+  font-weight: 500;
+}
